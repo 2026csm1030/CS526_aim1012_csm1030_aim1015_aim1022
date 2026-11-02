@@ -1,0 +1,7 @@
+nodes,	method,	approximation_error	,is_bipartite,	retained_edges
+10,	ADMM-BGA(1)	,0.215481923	,TRUE,	11
+10,	Harary-style,	0.215360597	,TRUE,	11
+20,	ADMM-BGA(1)	,0.380374073	,TRUE,	40
+20,	Harary-style,	0.383513214	,TRUE,	37
+30,	ADMM-BGA(1)	,0.528303394	,TRUE,	95
+30,	Harary-style,	0.532348303	,TRUE,	73
